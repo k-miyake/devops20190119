@@ -44,19 +44,14 @@
 - デプロイはリリースで行う
   - [ ] デプロイは Builds ではなく Releases で
   - [ ] Releases では 環境（DevとProduction等）にStageを分ける
-- Azureとの接続
   - [ ] Service Connectionの設定をAzureの権限がある人に依頼しておく
-- YAMLビルド
-  - ビルドタスクが安定してきたら、YAMLに変換する
-- 拡張機能 [Azure Cosmos DB Emulator (public preview) - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=azure-cosmosdb.emulator-public-preview&targetId=cfb04ec5-76ac-471b-b1df-538f1588df16&utm_source=vstsproduct&utm_medium=ExtHubManageList)
 
 ## プロダクトドキュメントとしてのWiki
 
 - [ ] プロジェクト実施中のメモは通常のWikiを使う
 - [ ] プロダクトのDocsはReposのドキュメントディレクトリを指定する
-- https://docs.microsoft.com/en-us/azure/devops/project/wiki/provisioned-vs-published-wiki?view=vsts
 
 ## プロジェクトの完了（納品）
 
-- Organization Settings でオーナーを変更し、利用ユーザーや権限を変更して完了
-- 必要に応じてサブスクリプションの付け替えも
+- [ ] Organization Settings でオーナーを変更し、利用ユーザーや権限を変更して完了
+- [ ] 必要に応じてサブスクリプションの付け替えも
